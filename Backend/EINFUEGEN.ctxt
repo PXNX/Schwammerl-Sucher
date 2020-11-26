@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=EINFUEGEN
+comment1.params=db
+comment1.target=EINFUEGEN(DATENBANK)
+comment2.params=datenbankadresse
+comment2.target=EINFUEGEN(java.lang.String)
+comment3.params=
+comment3.target=int\ einfuegen_ausfuehren()
+comment4.params=
+comment4.target=void\ zuruecksetzen()
+comment5.params=
+comment5.target=void\ befehlGenerieren()
+numComments=6

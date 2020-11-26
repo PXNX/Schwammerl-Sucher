@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="GUI_Extension">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/extensions/GUI_Extension.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

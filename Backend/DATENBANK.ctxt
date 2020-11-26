@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=DATENBANK
+comment1.params=datenbankadresse
+comment1.target=DATENBANK(java.lang.String)
+comment2.params=
+comment2.target=void\ finalize()
+comment3.params=abfrage
+comment3.target=java.sql.ResultSet\ Abfrage(java.lang.String)
+comment4.params=befehl
+comment4.target=int\ Aendern(java.lang.String)
+numComments=5

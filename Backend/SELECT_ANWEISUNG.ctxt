@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=SELECT_ANWEISUNG
+comment1.params=
+comment1.target=SELECT_ANWEISUNG()
+comment2.params=zuTesten
+comment2.target=void\ argumentTesten(java.lang.String)
+comment3.params=name
+comment3.target=void\ spalte_hinzufuegen(java.lang.String)
+comment4.params=name
+comment4.target=void\ spalte_entfernen(java.lang.String)
+comment5.params=s
+comment5.target=void\ spalten_festlegen(boolean[])
+numComments=6

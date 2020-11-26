@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ANWEISUNG
+comment1.params=
+comment1.target=java.lang.String\ anweisung_Ausgeben()
+comment2.params=
+comment2.target=void\ vorbereitung()
+comment3.params=
+comment3.target=void\ vorbereitung_rueckgaengig()
+comment4.params=
+comment4.target=void\ zuruecksetzen()
+comment5.params=zuTesten
+comment5.target=void\ argumentTesten(java.lang.String)
+numComments=6

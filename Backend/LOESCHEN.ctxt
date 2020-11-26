@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=LOESCHEN
+comment1.params=db
+comment1.target=LOESCHEN(DATENBANK)
+comment2.params=datenbankadresse
+comment2.target=LOESCHEN(java.lang.String)
+comment3.params=
+comment3.target=int\ loeschen_ausfuehren()
+comment4.params=
+comment4.target=void\ befehlGenerieren()
+comment5.params=
+comment5.target=void\ zuruecksetzen()
+numComments=6

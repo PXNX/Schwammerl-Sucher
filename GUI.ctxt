@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=GUI
+comment1.params=
+comment1.target=GUI()
+comment2.params=
+comment2.target=void\ generateMenu()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment4.params=ae
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=e
+comment5.target=void\ focusLost(java.awt.event.FocusEvent)
+comment6.params=e
+comment6.target=void\ focusGained(java.awt.event.FocusEvent)
+comment7.params=filenumberOUT\ filenameOUT\ filetypeOUT\ filecategoryOUT\ filecreatorOUT\ dateOUT\ filesizeOUT\ datarateOUT\ favoritevalueOUT
+comment7.target=void\ AddRow(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=8

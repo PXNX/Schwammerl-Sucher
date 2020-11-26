@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MyIllegalArgumentException
+comment1.params=meldung
+comment1.target=MyIllegalArgumentException(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getMessage()
+comment3.params=
+comment3.target=void\ printStackTrace()
+numComments=4

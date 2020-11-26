@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=RESULTSETCONVERTER
+comment1.params=s_a
+comment1.target=RESULTSETCONVERTER(SELECT_ANWEISUNG)
+comment2.params=s_a
+comment2.target=RESULTSETCONVERTER\ update_select(SELECT_ANWEISUNG)
+comment3.params=ergebnis_alt
+comment3.target=java.lang.String[][]\ ergebnisUmwandelnStandard(java.sql.ResultSet)
+comment4.params=ergebnis_alt\ trenner
+comment4.target=java.lang.String[]\ ergebnisUmwandelnZeilen(java.sql.ResultSet,\ java.lang.String)
+comment5.params=ergebnis_alt\ trenner
+comment5.target=java.lang.String\ ergebnisUmwandelnGanz(java.sql.ResultSet,\ java.lang.String)
+numComments=6

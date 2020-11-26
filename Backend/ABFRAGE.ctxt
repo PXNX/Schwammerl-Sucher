@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=ABFRAGE
+comment1.params=db
+comment1.target=ABFRAGE(DATENBANK)
+comment2.params=datenbankadresse
+comment2.target=ABFRAGE(java.lang.String)
+comment3.params=
+comment3.target=void\ finalize()
+comment4.params=
+comment4.target=java.lang.String[][]\ abfrage_ausfuehren()
+comment5.params=
+comment5.target=java.lang.String[][]\ ergebnis_standard()
+comment6.params=trenner
+comment6.target=java.lang.String[]\ ergebnis_Zeilen(java.lang.String)
+comment7.params=trenner
+comment7.target=java.lang.String\ ergebnis_ganz(java.lang.String)
+comment8.params=
+comment8.target=void\ zuruecksetzen()
+comment9.params=
+comment9.target=void\ abfrageGenerieren()
+numComments=10
